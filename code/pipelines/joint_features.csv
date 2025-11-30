@@ -1,0 +1,300 @@
+10K Name,Loader,UKBB Description,UKBB Field ID
+bt__albumin,BloodTests,Albumin,30600
+bt__alkaline_phosphatase,BloodTests,Alkaline phosphatase,30610
+bt__alt_gpt,BloodTests,Alanine aminotransferase,30620
+bt__ast_got,BloodTests,Aspartate aminotransferase,30650
+bt__basophils_%,BloodTests,Basophill percentage,30220
+bt__basophils_abs,BloodTests,Basophill count,30160
+bt__bilirubin_direct,BloodTests,Direct bilirubin,30660
+bt__bilirubin_total,BloodTests,Total bilirubin,30840
+bt__calcium,BloodTests,Calcium,30680
+bt__creatinine,BloodTests,Creatinine,30700
+bt__crp_wide_range,BloodTests,C-reactive protein,30710
+bt__eosinophils_%,BloodTests,Eosinophill percentage,30210
+bt__eosinophils_abs,BloodTests,Eosinophill count,30150
+bt__estradiol_e2,BloodTests,Oestradiol,30800
+bt__gamma_gt,BloodTests,Gamma glutamyltransferase,30730
+bt__ggt,BloodTests,Gamma glutamyltransferase,30730
+bt__glucose,BloodTests,Glucose,30740
+bt__hba1c,BloodTests,Glycated haemoglobin (HbA1c),30750
+bt__hct,BloodTests,Haematocrit percentage,30030
+bt__hdl_cholesterol,BloodTests,HDL cholesterol,30760
+bt__hemoglobin,BloodTests,Haemoglobin concentration,30020
+bt__ldl_cholesterol,BloodTests,LDL direct,30780
+bt__lymphocytes_%,BloodTests,Lymphocyte percentage,30180
+bt__lymphocytes_abs,BloodTests,Lymphocyte count,30120
+bt__mch,BloodTests,Mean corpuscular haemoglobin,30050
+bt__mchc,BloodTests,Mean corpuscular haemoglobin concentration,30060
+bt__mcv,BloodTests,Mean corpuscular volume,30040
+bt__mean_platelet_volume,BloodTests,Mean platelet (thrombocyte) volume,30100
+bt__monocytes_%,BloodTests,Monocyte percentage,30190
+bt__monocytes_abs,BloodTests,Monocyte count,30130
+bt__neutrophils_%,BloodTests,Neutrophill percentage,30200
+bt__neutrophils_abs,BloodTests,Neutrophill count,30140
+bt__nucleated_rbc,BloodTests,Nucleated red blood cell count,30170
+bt__nucleated_rbc_%,BloodTests,Nucleated red blood cell percentage,30230
+bt__platelet_large_cell_ratio,BloodTests,Platelet distribution width,30110
+bt__platelets,BloodTests,Platelet count,30080
+bt__protein_total,BloodTests,Total protein,30860
+bt__rbc,BloodTests,Red blood cell (erythrocyte) count,30010
+bt__rdw,BloodTests,Red blood cell (erythrocyte) distribution width,30070
+bt__reticulocytes_%,BloodTests,Reticulocyte count,30250
+bt__reticulocytes_abs,BloodTests,Reticulocyte percentage,30240
+bt__rheumatoid_factor_quantit,BloodTests,Rheumatoid factor,30820
+bt__testosterone,BloodTests,Testosterone,30850
+bt__triglycerides,BloodTests,Triglycerides,30870
+bt__urea,BloodTests,Urea,30670
+bt__uric_acid,BloodTests,Urate,30880
+bt__vitamin_d,BloodTests,Vitamin D,30890
+bt__wbc,BloodTests,White blood cell (leukocyte) count,30000
+urine__creatinine,BloodTests,Creatinine (enzymatic) in urine,30510
+urine__microalbumin,BloodTests,Microalbumin in urine,30500
+urine__potassium_24,BloodTests,Potassium in urine,30520
+urine__sodium,BloodTests,Sodium in urine,30530
+alcohol_drink,LifeStyle,Alcohol intake frequency.,1558
+alcohol_drink_past,LifeStyle,Former alcohol drinker,3731
+red_wine_glasses_month:,LifeStyle,Average monthly red wine intake,4407
+white_wine_glasses_month:,LifeStyle,Average monthly champagne plus white wine intake,4418
+beer_cider_pints_month:,LifeStyle,Average monthly beer plus cider intake,4429
+liqueurs_measures_month:,LifeStyle,Average monthly spirits intake,4440
+fortified_wine__glasses_month:,LifeStyle,Average monthly fortified wine intake,4451
+other_alcoholic_glasses_month:,LifeStyle,Average monthly intake of other alcoholic drinks,4462
+red_wine_glasses_week:,LifeStyle,Average weekly red wine intake,1568
+white_wine_glasses_week:,LifeStyle,Average weekly champagne plus white wine intake,1578
+beer_cider_pints_week:,LifeStyle,Average weekly beer plus cider intake,1588
+liqueurs_measures_week:,LifeStyle,Average weekly spirits intake,1598
+fortified_wine__glasses_week:,LifeStyle,Average weekly fortified wine intake,1608
+other_alcoholic_glasses_week_number,LifeStyle,Average weekly intake of other alcoholic drinks,5364
+drink_alcohol_with_meals,LifeStyle,Alcohol usually taken with meals,1618
+drink_compared_10years,,Alcohol intake versus 10 years previously,1628
+why_reduce_drinkng,LifeStyle,Reason for reducing amount of alcohol drunk,2664
+why_stop_drinking,LifeStyle,Reason former drinker stopped drinking alcohol,3859
+cooked_veg_tablespoons_day_number,LifeStyle,Cooked vegetable intake,1289
+raw_veg_tablespoons_day_number,LifeStyle,Salad / raw vegetable intake,1299
+fresh_fruit_day_number,LifeStyle,Fresh fruit intake,1309
+dried_fruit_day_number,LifeStyle,Dried fruit intake,1319
+eat_oily_fish,LifeStyle,Oily fish intake,1329
+eatother_fish,LifeStyle,Non-oily fish intake,1339
+eat_processed_meat,LifeStyle,Processed meat intake,1349
+eat_chicken_poultry,LifeStyle,Poultry intake,1359
+eat_beef,LifeStyle,Beef intake,1369
+eat_lamb_mutton,LifeStyle,Lamb/mutton intake,1379
+eat_pork,LifeStyle,Pork intake,1389
+last_ate_meat_age_age,LifeStyle,Age when last ate meat,3680
+never_eat,LifeStyle,"Never eat eggs, dairy, wheat, sugar",6144
+eat_cheese,LifeStyle,Cheese intake,1408
+milk_type,LifeStyle,Milk type used,1418
+spread_type,LifeStyle,Spread type,1428
+spread_type_more,LifeStyle,Non-butter spread type details,2654
+bread_slices_week_number,LifeStyle,Bread intake,1438
+bread_type_mainly_eat,LifeStyle,Bread type,1448
+cereals_bowels_week_number,LifeStyle,Cereal intake,1458
+cereal_type,LifeStyle,Cereal type,1468
+add_salt_to_food,LifeStyle,Salt added to food,1478
+tea_cups_day_number,LifeStyle,Tea intake,1488
+coffee_cups_day_number,LifeStyle,Coffee intake,1498
+coffee_type,LifeStyle,Coffee type,1508
+hot_drinks_how_do_you_like,LifeStyle,Hot drink temperature,1518
+water_glasses_day_number,LifeStyle,Water intake,1528
+diet_major_changes_5years,LifeStyle,Major dietary changes in the last 5 years,1538
+diet_vary_week_to_week,LifeStyle,Variation in diet,1548
+smoke_tobacco_now,LifeStyle,Current tobacco smoking,1239
+tobacco_past_how_often,LifeStyle,Past tobacco smoking,1249
+smoked_at_least_100,LifeStyle,"Light smokers, at least 100 smokes in lifetime",2644
+smoking_first_age_age,LifeStyle,Age started smoking in current smokers,3436
+tobacco_type_present,LifeStyle,Type of tobacco currently smoked,3446
+smoking_cigaretts_past,LifeStyle,Previously smoked cigarettes on most/all days,5959
+cigaretts_past_per_day_number,LifeStyle,Number of cigarettes previously smoked daily (current cigar/pipe smokers),6183
+cigaretts_last_age_age,LifeStyle,Age stopped smoking cigarettes (current cigar/pipe or previous cigarette smoker),6194
+cigaretts_present_per_day_number,LifeStyle,Number of cigarettes currently smoked daily (current cigarette smokers),3456
+smoking_after_waking,LifeStyle,Time from waking to first cigarette,3466
+easy_go_without_smoking_day,LifeStyle,Difficulty not smoking for 1 day,3476
+tried_give_up_smoking,LifeStyle,Ever tried to stop smoking,3486
+want_to_stop_smoking,LifeStyle,Wants to stop smoking,3496
+smoking_compared_10years,LifeStyle,Smoking compared to 10 years previous,3506
+smoking_reduce_why,LifeStyle,Why reduced smoking,6158
+start_smoking_age,LifeStyle,Age started smoking in former smokers,2867
+tobacco_type_past,LifeStyle,Type of tobacco previously smoked,2877
+cigaretts_past_per_day_number1,LifeStyle,Number of cigarettes previously smoked daily,2887
+age_last_smoking_regularly_age,LifeStyle,Age stopped smoking,2897
+smoking_stop_more_then_6months,LifeStyle,Ever stopped smoking for 6+ months,2907
+stop_smoking_why,LifeStyle,Why stopped smoking,6157
+stop_smoking_try_number_number,LifeStyle,Number of unsuccessful stop-smoking attempts,2926
+may_start_smoking_again,LifeStyle,Likelihood of resuming smoking,2936
+smoke_houshold,LifeStyle,Smoking/smokers in household,1259
+smoke_exposed_at_home_hours_week_number,LifeStyle,Exposure to tobacco smoke at home,1269
+smoke_exposed_outside_hours_per_week_number,LifeStyle,Exposure to tobacco smoke outside home,1279
+sleep_hours_in_24H,LifeStyle,Sleep duration,1160
+easy_getting_up,LifeStyle,Getting up in morning,1170
+consider_yourself_morning_evening,LifeStyle,Morning/evening person (chronotype),1180
+nap_during_day,LifeStyle,Nap during day,1190
+trouble_falling_a_sleep,LifeStyle,Sleeplessness / insomnia,1200
+snoring,LifeStyle,Snoring,1210
+falling_asleep_during_daytime,LifeStyle,Daytime dozing / sleeping (narcolepsy),1220
+falls_in_the_last_year,Symptoms,Falls in the last year,2296
+weight_changes_in_the_last_year,Symptoms,Weight change compared with 1 year ago,2306
+wheeze_whistling_in_the_last_year,Symptoms,Wheeze or whistling in the chest in last year,2316
+shortness_of_breath_same_age_group,Symptoms,Shortness of breath walking on level ground,4717
+leg_pain_on_walking,Symptoms,Leg pain on walking,4728
+leg_pain_begin_standing_sitting,Symptoms,Leg pain when standing still or sitting,5452
+calfs_pain,Symptoms,Leg pain in calf/calves,5463
+leg_pain_uphill_hurry,Symptoms,Leg pain when walking uphill or hurrying,5474
+leg_pain_ordinary_pace_on_the_level,Symptoms,Leg pain when walking normally,5485
+leg_pain_disappear_when_continue_walking,Symptoms,Leg pain when walking ever disappears while walking,5496
+action_to_stop_leg_pain,Symptoms,Leg pain on walking : action taken,5507
+leg_pain_when_stopping,Symptoms,Leg pain on walking : effect of standing still,5518
+surgery_on_leg_arteries,Symptoms,Surgery on leg arteries (other than for varicose veins),5529
+surgical_removal_of,Symptoms,Surgery/amputation of toe or leg,5540
+chest_pain,Symptoms,Chest pain or discomfort,2335
+people_living_together_retalated,LifeStyle,How are people in household related to participant,6141
+chest_pain_walking_ordinary_pace,Symptoms,Chest pain or discomfort walking normally,3606
+chest_pain_walking_uphill_hurry,Symptoms,Chest pain or discomfort when walking uphill or hurrying,3751
+chest_pain_go_away_when_standing_still,Symptoms,Chest pain due to walking ceases when standing still,3616
+experiences_interfering_with_usual_activities,Symptoms,Pain type(s) experienced in last month,6159
+headache_over_3_months,Symptoms,Headaches for 3+ months,3799
+facial_pain_over_3_months,Symptoms,Facial pains for 3+ months,4067
+neck_shoulder_pain_over_3_months,Symptoms,Neck/shoulder pain for 3+ months,3404
+back_pain_over_3_months,Symptoms,Back pain for 3+ months,3571
+stomach_abdominal_pain_over_3_months,Symptoms,Stomach/abdominal pain for 3+ months,3741
+hip_pain_over_3_months,Symptoms,Hip pain for 3+ months,3414
+knee_pain_over_3_months,Symptoms,Knee pain for 3+ months,3773
+pain_all_over_body_over_3_months,Symptoms,General pain for 3+ months,2956
+walking_10min_days_a_week,LifeStyle,Number of days/week walked 10+ minutes,864
+walking_minutes_day,LifeStyle,Duration of walks,874
+physical_activity_maderate_days_a_week,LifeStyle,Number of days/week of moderate physical activity 10+ minutes,884
+moderate_activity_minutes,LifeStyle,Duration of moderate activity,894
+physical_activity_vigorous_days_a_week,LifeStyle,Number of days/week of vigorous physical activity 10+ minutes,904
+vigorous_activity_minutes,LifeStyle,Duration of vigorous activity,914
+usual_walking_pace,LifeStyle,Usual walking pace,924
+climb_staires_tymes_a_day,LifeStyle,Frequency of stair climbing in last 4 weeks,943
+transport_forms_used,LifeStyle,Types of transport used (excluding work),6162
+transportaion_to_work,LifeStyle,Transport type for commuting to job workplace,6143
+activities_type,LifeStyle,Types of physical activity in last 4 weeks,6164
+visit_friends_family_times,LifeStyle,Frequency of friend/family visits,1031
+attend_activities_once_a_week,LifeStyle,Leisure/social activities,6160
+hours_outdoors_summer,LifeStyle,Time spend outdoors in summer,1050
+hours_outdoors_winter,LifeStyle,Time spent outdoors in winter,1060
+hours_watching_tv,LifeStyle,Time spent watching television (TV),1070
+hours_using_computer_not_work,LifeStyle,Time spent using computer,1080
+hours_driving,LifeStyle,Time spent driving,1090
+drive_faster_often,LifeStyle,Drive faster than motorway speed limit,1100
+right_or_left_handed,FamilyHistory,Handedness (chirality/laterality),1707
+skin_colour_without_tanning,FamilyHistory,Skin colour,1717
+skin_exposure_to_sun,FamilyHistory,Ease of skin tanning,1727
+sunburn_blisters_before_age_15,FamilyHistory,Childhood sunburn occasions,1737
+natural_hair_color,FamilyHistory,"Hair colour (natural, before greying)",1747
+age_appearance,FamilyHistory,Facial ageing,1757
+adopted_as_a_child,FamilyHistory,Adopted as a child,1767
+multiple_birth,FamilyHistory,Part of a multiple birth,1777
+mother_smoking_while_pregnant,FamilyHistory,Maternal smoking around birth,1787
+father_still_alive,FamilyHistory,Father still alive,1797
+adopted_father_still_alive,FamilyHistory,Adopted father still alive,3912
+father_age,FamilyHistory,Father's age,2946
+father_age_when_passing,FamilyHistory,Father's age at death,1807
+father_medical_history_Y13D,,Illnesses of father,20107
+adopted_father_medical_history_Y13DAD,,Illnesses of adopted father,20112
+father_medical_history_Y13E,,Illnesses of father,20107
+adopted_father_medical_history_Y13EAD,,Illnesses of adopted father,20112
+mother_still_alive,FamilyHistory,Mother still alive,1835
+adopted_mother_still_alive,FamilyHistory,Adopted mother still alive,3942
+mother_age,FamilyHistory,Mother's age,1845
+mother_age_when_passing,FamilyHistory,Mother's age at death,3526
+mother_medical_history_Y16D,,Illnesses of mother,20110
+adopted_mother_medical_history_Y16DAD,,Illnesses of adopted mother,20113
+mother_medical_history_Y16E,,Illnesses of mother,20110
+adopted_mother_medical_history_Y16EAD,,Illnesses of adopted mother,20113
+brothers_number,FamilyHistory,Number of full brothers,1873
+step_brothers_number,FamilyHistory,Number of adopted brothers,3972
+sisters_number,FamilyHistory,Number of full sisters,1883
+step_sisters_number,FamilyHistory,Number of adopted sisters,3982
+siblings_medical_history_Y19,,Illnesses of siblings,20111
+step_siblings_medical_history_Y19AD,,Illnesses of adopted siblings,20114
+siblings_medical_history_Y20,,Illnesses of siblings,20111
+step_siblings_medical_history_Y20AD,,Illnesses of adopted siblings,20114
+older_siblings_number,FamilyHistory,Number of older siblings,5057
+family_member_non-accidental_death,FamilyHistory,Non-accidental death in close genetic family,4501
+mood_swings,Mental,Mood swings,1920
+miserable_no_reason,Mental,Miserableness,1930
+irritable_person,Mental,Irritability,1940
+easily_hurt,,Sensitivity / hurt feelings,1950
+fed-up_often,Mental,Fed-up feelings,1960
+nervous_person,Mental,Nervous feelings,1970
+worrier,Mental,Worrier / anxious feelings,1980
+tense_or_highly_strung,Mental,Tense / 'highly strung',1990
+worry_long_after_embarrassment,Mental,Worry too long after embarrassment,2000
+suffer_nerves,Mental,Suffer from 'nerves',2010
+feeling_lonley_often,Mental,"Loneliness, isolation",2020
+troubled_by_guilt,Mental,Guilty feelings,2030
+suffers_from_the_following,Symptoms,Mouth/teeth dental problems,6149
+risks_taker,Mental,Risk taking,2040
+happiness_level,Mental,Happiness,4526
+work_satisfaction,Mental,Work/job satisfaction,4537
+health_satisfaction,Mental,Health satisfaction,4548
+family_relationship_satisfaction,Mental,Family relationship satisfaction,4559
+friendships_satisfaction,Mental,Friendships satisfaction,4570
+financial_situation_satisfaction,Mental,Financial situation satisfaction,4581
+depressed_hopeless_fortnight,Mental,Frequency of depressed mood in last 2 weeks,2050
+little_interest_or_pleasure_fortnight,Mental,Frequency of unenthusiasm / disinterest in last 2 weeks,2060
+fidgety_or_restless_fortnight,Mental,Frequency of tenseness / restlessness in last 2 weeks,2070
+tired_or_little_energy_fortnight,Mental,Frequency of tiredness / lethargy in last 2 weeks,2080
+nerves_anxiety_tension_depression_doctor,Mental,"Seen doctor (GP) for nerves, anxiety, tension or depression",2090
+nerves_anxiety_tension_depression_psychiatrist,Mental,"Seen a psychiatrist for nerves, anxiety, tension or depression",2100
+depressed_whole_week,Mental,Ever depressed for a whole week,4598
+depressed_longest_period_weeks,Mental,Longest period of depression,4609
+depressed_whole_week_periods,Mental,Number of depression episodes,4620
+unenjoyment_uninterested_whole_week,Mental,Ever unenthusiastic/disinterested for a whole week,4631
+unenjoyment_uninterested_period_duration_weeks,Mental,Longest period of unenthusiasm / disinterest,5375
+unenjoyment_uninterested_periods_number,Mental,Number of unenthusiastic/disinterested episodes,5386
+hyper_least_two_days,Mental,Ever manic/hyper for 2 days,4642
+irritablilty_leading_to_argumens,Mental,Ever highly irritable/argumentative for 2 days,4653
+high_irritable_state,Mental,Manic/hyper symptoms,6156
+high_irritable_longest_period_duration,Mental,Length of longest manic/irritable episode,5663
+high_irritable_state_caused_problems,Mental,Severity of manic/irritable episodes,5674
+confide_frequency,,Able to confide,2110
+occuerd_in_past_two_years,Symptoms,"Illness, injury, bereavement, stress in last 2 years",6145
+overall_health,Symptoms,Overall health rating,2178
+disability_illness,Symptoms,"Long-standing illness, disability or infirmity",2188
+glasses_contact_lenses,Symptoms,Wears glasses or contact lenses,2207
+glasses_contact_lenses_start_age,Symptoms,Age started wearing glasses or contact lenses,2217
+glasses/contacts_condition,Symptoms,Reason for glasses/contact lenses,6147
+short-sightedness_eye,Symptoms,Which eye(s) affected by myopia (short sight),5843
+long-sightedness_eye,Symptoms,Which eye(s) affected by hypermetropia (long sight),5832
+reading_glasses_eye,Symptoms,Which eye(s) affected by presbyopia,5610
+astigmatism_eye,Symptoms,Which eye(s) affected by astigmatism,5855
+strabismus_eye,Symptoms,Which eye(s) affected by strabismus (squint),6205
+amblyopia_eye,Symptoms,Which eye(s) affected by amblyopia (lazy eye),5408
+other_condition_eye,Symptoms,Which eye(s) affected by other eye condition,5877
+other_eyes_or_eyesight_problems,Symptoms,Other eye problems,2227
+doctor_eye_problem_diagnosis,Symptoms,Eye problems/disorders,6148
+diabetes_related_eye_disease_eye,Symptoms,Which eye(s) affected by diabetes-related eye disease,5890
+diabetes_related_eye_disease_age,Symptoms,Age when diabetes-related eye disease diagnosed,5901
+glaucoma_eye,Symptoms,Which eye(s) affected by glaucoma,6119
+glaucoma_age,Symptoms,Age glaucoma diagnosed,4689
+Injury_trauma_loss_of_vision_eye,Symptoms,Which eye(s) affected by injury or trauma resulting in loss of vision,5419
+Injury_trauma_loss_of_vision_age,Symptoms,Age when loss of vision due to injury or trauma diagnosed,5430
+cataract_eye,Symptoms,Which eye(s) are affected by cataract,5441
+cataract_age,Symptoms,Age cataract diagnosed,4700
+macular_degeneration_eye,Symptoms,Which eye(s) affected by macular degeneration,5912
+macular_degeneration_age,Symptoms,Age macular degeneration diagnosed,5923
+other_serious_eye_condition_eye,Symptoms,Which eye(s) affected by other serious eye condition,5934
+other_serious_eye_condition_age,Symptoms,Age other serious eye condition diagnosed,5945
+sun_protection_summer,,Use of sun/uv protection,2267
+facial_hair_average,HormonalStatus,Relative age of first facial hair,2375
+voice_break_average,HormonalStatus,Relative age voice broke,2385
+hair_balding_pattern,HormonalStatus,Hair/balding pattern,2395
+fathered_children_number,HormonalStatus,Number of children fathered,2405
+height,BodyMeasures,Standing height,50
+hips,BodyMeasures,Hip circumference,49
+trunk_fat,BodyMeasures,Trunk fat percentage,23127
+body_fat,BodyMeasures,Body fat percentage,23099
+waist,BodyMeasures,Waist circumference,48
+bmi,BodyMeasures,Body mass index (BMI),21001
+hand_grip_right,BodyMeasures,Hand grip strength (right),47
+hand_grip_left,BodyMeasures,Hand grip strength (left),46
+number_of_days_from_last_period,BodyMeasures,Time since last menstrual period,3700
+sitting_blood_pressure_pulse_rate,BodyMeasures,"Pulse rate, automated reading",102
+sitting_blood_pressure_systolic,BodyMeasures,"Systolic blood pressure, automated reading",4080
+sitting_blood_pressure_diastolic,BodyMeasures,"Diastolic blood pressure, automated reading",4079
+weight,BodyMeasures,Weight,21002
+age,BodyMeasures,Age when attended assessment centre,21003
+gender,BodyMeasures,Sex,31

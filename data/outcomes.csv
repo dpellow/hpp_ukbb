@@ -1,0 +1,59 @@
+UKBB Description,UKBB Field ID
+Date I10 first reported (essential (primary) hypertension),131286
+Date I21 first reported (acute myocardial infarction),131298
+Date I25 first reported (chronic ischaemic heart disease),131306
+Date E14 first reported (unspecified diabetes mellitus),130714
+Date J45 first reported (asthma),131494
+Date K76 first reported (other diseases of liver),131670
+Date K75 first reported (other inflammatory liver diseases),131668
+Date K74 first reported (fibrosis and cirrhosis of liver),131666
+Date E66 first reported (obesity),130792
+Date E10 first reported (insulin-dependent diabetes mellitus),130706
+Date E11 first reported (non-insulin-dependent diabetes mellitus),130708
+Date I24 first reported (other acute ischaemic heart diseases),131304
+Date I35 first reported (nonrheumatic aortic valve disorders),131324
+Date I34 first reported (nonrheumatic mitral valve disorders),131322
+Date I42 first reported (cardiomyopathy),131338
+Date I50 first reported (heart failure),131354
+Date I48 first reported (atrial fibrillation and flutter),131350
+Date I70 first reported (atherosclerosis),131380
+Date I71 first reported (aortic aneurysm and dissection),131382
+Date J32 first reported (chronic sinusitis),131468
+Date J44 first reported (other chronic obstructive pulmonary disease),131492
+Date J81 first reported (pulmonary oedema),131524
+"Date J18 first reported (pneumonia, organism unspecified)",131456
+Date G20 first reported (parkinson's disease),131022
+Date G30 first reported (alzheimer's disease),131036
+Date G51 first reported (facial nerve disorders),131064
+Date I63 first reported (cerebral infarction),131366
+Date G43 first reported (migraine),131052
+Date F01 first reported (vascular dementia),130838
+Date F41 first reported (other anxiety disorders),130906
+Date F33 first reported (recurrent depressive disorder),130896
+Date M06 first reported (other rheumatoid arthritis),131850
+Date M10 first reported (gout),131858
+Date M80 first reported (osteoporosis with pathological fracture),131962
+Date K30 first reported (dyspepsia),131600
+Date I44 first reported (atrioventricular and left bundle-branch block),131342
+Date I73 first reported (other peripheral vascular diseases),131386
+Date N18 first reported (chronic renal failure),132032
+"Date I64 first reported (stroke, not specified as haemorrhage or infarction)",131368
+Date I26 first reported (pulmonary embolism),131308
+Date J84 first reported (other interstitial pulmonary diseases),131528
+Date L03 first reported (cellulitis),131702
+Date N95 first reported (menopausal and other perimenopausal disorders),132152
+Date N30 first reported (cystitis),132054
+Date K80 first reported (cholelithiasis),131674
+Date E28 first reported (ovarian dysfunction),130736
+Date E06 first reported (thyroiditis),130702
+Date E05 first reported (thyrotoxicosis [hyperthyroidism]),130700
+Date E03 first reported (other hypothyroidism),130696
+Date E04 first reported (other non-toxic goitre),130698
+Date K51 first reported (ulcerative colitis),131628
+Date K57 first reported (diverticular disease of intestine),131636
+Date K40 first reported (inguinal hernia),131612
+Date K44 first reported (diaphragmatic hernia),131620
+Date E55 first reported (vitamin d deficiency),130774
+Date K85 first reported (acute pancreatitis),131682
+Date N40 first reported (hyperplasia of prostate),132072
+Date E78 first reported (disorders of lipoprotein metabolism and other lipidaemias),130814
