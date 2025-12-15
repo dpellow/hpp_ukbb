@@ -5,3 +5,5 @@ This repo contains code and some of the raw data for **Analysis of biomarkers in
 Raw data needed for these plots and other results is in `data`. Note that individual level data cannot be made publicly available and can be obtained via MTA as described in the paper.
 
 `code/pipelines/` contains raw code for the anaylsis pipelines to generate the models, correlations, and other raw results. These are part of a larger codebase for accessing and processing the individual level data that cannot be made publicly available.
+
+Supplementary correlation plots.pdf contains Figures S2-S12, heatmap plots of the significant correlations between each pseduo-outcome and the HPP data modalities
